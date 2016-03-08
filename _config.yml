@@ -1,0 +1,28 @@
+name: SaltspringSolar
+favicon: null
+layout_spectrum: 0.8672275699209422
+typography_spectrum: 0.9090519088786095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1728097558952868
+  lightness: 0.9335982531774789
+  saturation: 0.6067725659813732
+  rhythmicContrast: 0.6907963075209409
+purpose: []
