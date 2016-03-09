@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Saltspring Solar Ltd.]]></title>
         <description><![CDATA[Saltspring Solar Ltd.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/saltspringsolar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 00:26:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 00:39:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/saltspringsolar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>saltspringsolar ltd.</p>]]></description>
-            <link>undefinedsaltspringsolar-ltd/index.html</link>
+            <link>https://thegrid.ai/saltspringsolar/saltspringsolar-ltd/index.html</link>
             <guid isPermaLink="false">6b0f6c42-7c1e-4861-be4a-6e06de8b7b4f</guid>
             <pubDate>Wed, 09 Mar 2016 00:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>and</p>]]></description>
+            <link>https://thegrid.ai/saltspringsolar/and/index.html</link>
+            <guid isPermaLink="false">2a748e76-718a-4d2f-a118-46f5f320518d</guid>
+            <pubDate>Wed, 09 Mar 2016 00:38:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
