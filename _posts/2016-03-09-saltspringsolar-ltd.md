@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: saltspringsolar ltd.
-datePublished: '2016-03-09T00:25:51.844Z'
-dateModified: '2016-03-08T23:59:36.434Z'
+datePublished: '2016-03-09T00:42:06.542Z'
+dateModified: '2016-03-09T00:41:58.444Z'
 title: ''
 author: []
 authors: []
