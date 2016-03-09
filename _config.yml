@@ -1,6 +1,6 @@
 name: SaltspringSolar
 favicon: null
-layout_spectrum: 0.50261
+layout_spectrum: 0.75826
 typography_spectrum: 0.4626
 title: Saltspring Solar Ltd.
 cta:
@@ -23,7 +23,7 @@ color:
     - '#7d8a9e'
     - '#8ab9d0'
   brandStrength: 1
-  lightness: 0.75
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0.25
 purpose: []
